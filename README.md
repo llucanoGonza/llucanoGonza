@@ -64,4 +64,4 @@ TODO-IST:END
 Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎧🗨🏃‍♀️
   -->
-   Visita mi trello aqui: https://trello.com/b/LMMpaIA1/naki-dejo-vicente
+   Visita mi trello aqui: 
