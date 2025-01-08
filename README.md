@@ -35,9 +35,14 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 
 Comprale una chela o café a Leo :
 
-<a href="https://www.buymeacoffee.com/nak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
+<a href="https://buymeacoffee.com/leoopaolo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame una chelita" width="150" ></a>
 
 <!-- 
+🚧 **Datos adicionales:**
+TODO-IST:END 
+🍰  26 diciembre. 1998.
+🍛  Pollo a la coca cola.
+🥤  Coca cola o té.
 
  
 
