@@ -23,5 +23,21 @@ GitHub y JMeter.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original.svg"></code>
 
+📊 **Esta semana pasé tiempo en:**
+<!--START_SECTION:waka-->
+```text
+Java         9 hrs 6 mins    ███████████████████████▒░   93.42 %
+SQL          2 hrs mins      ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.00 %
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+C++          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+```
+<!--END_SECTION:waka-->
+
+Comprale una chela o café a Leo :
+
+<a href="https://www.buymeacoffee.com/nak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
+
+<!-- 
+
  
 
