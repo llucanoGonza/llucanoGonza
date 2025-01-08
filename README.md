@@ -6,7 +6,7 @@
   <img align="left" alt="Nakis's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://linkedin.com/in/naki-jannet-dejo-vicente">
+<a href="https://www.linkedin.com/in/leonardo-lucano-5413591b4/">
   <img align="left" alt="Naki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
