@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Rai </h1>
 
-<img  src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0eG9jMW96bDgzOG05aWVlbHk1ZWd5cWxqOTZvdHB2d3Jnd2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif)" width="50">
+### <img  src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0eG9jMW96bDgzOG05aWVlbHk1ZWd5cWxqOTZvdHB2d3Jnd2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif)" width="50">
 
 
 
