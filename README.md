@@ -24,7 +24,7 @@ con Jira y Trello, además utilizo herramientas como Git con GitHub, GitLab, JMe
 SonarQube, JUnit y Maven.
 
 
-  <img align="right" alt="GIF" src="https://github.com/nakiviar/nakiviar/blob/master/code.gif?raw=true" width="300" height="220" />
+  <img align="right" alt="GIF" src="[https://github.com/nakiviar/nakiviar/blob/master/code.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0eG9jMW96bDgzOG05aWVlbHk1ZWd5cWxqOTZvdHB2d3Jnd2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif)?raw=true" width="300" height="220" />
 
 
 **Herramientas que uso (languages and tools) :**
