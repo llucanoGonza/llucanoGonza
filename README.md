@@ -3,7 +3,7 @@
 ¡Hola!, me llamo Leo . Me motiva las
 nuevas tendencias tecnológicas, programo y gestiono sistemas de bases de datos 
 utilizando varias tecnologías según requerimientos solicitados con Python, Java, 
-SQL, Mysql, Oracle. He trabajado en equipos de desarrollo usando la metodología 
+SQL, Mysql, Oracle. He trabajado en equipos de desarrollo usando el marco de trabajo 
 Agile usando Kanban con Jira y Trello, además utilizo herramientas como Git con 
 GitHub y JMeter
 
